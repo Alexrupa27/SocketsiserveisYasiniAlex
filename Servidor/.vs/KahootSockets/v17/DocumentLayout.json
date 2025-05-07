@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\KahootSockets\\",
+  "WorkspaceRootPath": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|c:\\users\\alexr\\source\\repos\\gestioxmlyasinalex\\socketsiserveisyasinialex\\kahootsockets\\kahootsockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|solutionrelative:kahootsockets\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|c:\\users\\alexr\\source\\repos\\gestioxmlyasinalex\\socketsiserveisyasinialex\\servidor\\kahootsockets\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|solutionrelative:kahootsockets\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|c:\\users\\alexr\\source\\repos\\gestioxmlyasinalex\\socketsiserveisyasinialex\\servidor\\kahootsockets\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|solutionrelative:kahootsockets\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|c:\\users\\alexr\\source\\repos\\gestioxmlyasinalex\\socketsiserveisyasinialex\\servidor\\kahootsockets\\clases\\clescolta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|solutionrelative:kahootsockets\\clases\\clescolta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|c:\\users\\alexr\\source\\repos\\gestioxmlyasinalex\\socketsiserveisyasinialex\\servidor\\kahootsockets\\clases\\clparla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179F8984-76B0-4C84-B917-FC6DE2AF9688}|KahootSockets\\KahootSockets.csproj|solutionrelative:kahootsockets\\clases\\clparla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,12 +50,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClParla.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\Clases\\ClParla.cs",
+              "RelativeDocumentMoniker": "KahootSockets\\Clases\\ClParla.cs",
+              "ToolTip": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\Clases\\ClParla.cs",
+              "RelativeToolTip": "KahootSockets\\Clases\\ClParla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:04:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClEscolta.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\Clases\\ClEscolta.cs",
+              "RelativeDocumentMoniker": "KahootSockets\\Clases\\ClEscolta.cs",
+              "ToolTip": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\Clases\\ClEscolta.cs",
+              "RelativeToolTip": "KahootSockets\\Clases\\ClEscolta.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:04:30.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\KahootSockets\\KahootSockets\\Form1.cs",
-              "RelativeDocumentMoniker": "KahootSockets\\Form1.cs",
-              "ToolTip": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\KahootSockets\\KahootSockets\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "KahootSockets\\Form1.cs [Dise\u00F1o]",
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\FrmMain.cs",
+              "RelativeDocumentMoniker": "KahootSockets\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\FrmMain.cs",
+              "RelativeToolTip": "KahootSockets\\FrmMain.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2oAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:13:39.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\FrmMain.cs",
+              "RelativeDocumentMoniker": "KahootSockets\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\alexr\\source\\repos\\GestioXMLYasinAlex\\SocketsiserveisYasiniAlex\\Servidor\\KahootSockets\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "KahootSockets\\FrmMain.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T15:43:34.246Z",
               "EditorCaption": " [Dise\u00F1o]"
